@@ -1,0 +1,65 @@
+[
+    [
+        "c5f0bf6d-4a2d-4440-b07b-7ea5ae2884eb",
+        "The app keeps logging me out.",
+        "Please provide specific actions or scenarios that lead to the app logging you out.",
+        "Chrome on Windows 11",
+        "OPEN"
+    ],
+    [
+        "240baeb0-6ef6-4b08-ba14-2615573e0c8f",
+        "The checkout page crashes when I click the Pay button",
+        "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay.",
+        "Chrome 120 on macOS Sonoma",
+        "OPEN"
+    ],
+    [
+        "6c563e29-d908-471e-bee3-6c7676fb30d3",
+        "Product images never load on category pages. Every image is a grey box.",
+        "Open the shop, tap any category.",
+        "Safari 17 on iPhone",
+        "OPEN"
+    ],
+    [
+        "3e4aac34-6bbf-43d1-9421-a087ec0f6df1",
+        "The checkout page crashes when I click the Pay button",
+        "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay.",
+        "Chrome 120 on macOS Sonoma",
+        "OPEN"
+    ],
+    [
+        "7eaa8565-1086-4569-b325-d01878abf9d6",
+        "Product images never load on category pages. Every image is a grey box.",
+        "Open the shop, tap any category.",
+        "Safari 17 on iPhone",
+        "OPEN"
+    ],
+    [
+        "5ad7eb30-3310-4a78-87b9-1ffcb5ce361f",
+        "The app keeps logging me out.",
+        "Using the app.",
+        "Chrome on Windows 11",
+        "OPEN"
+    ],
+    [
+        "b5de5d84-218d-458c-afba-4e8a9c113102",
+        "The checkout page crashes when I click the Pay button",
+        "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay.",
+        "Chrome 120 on macOS Sonoma",
+        "OPEN"
+    ],
+    [
+        "3ccdbea3-74e8-455a-80f8-cc8f07448dc4",
+        "The search bar returns nothing for a product that clearly exists.",
+        "Type a product name I know exists and it returns nothing.",
+        "Firefox on Windows 11",
+        "OPEN"
+    ],
+    [
+        "b130d1a2-c616-4a1e-8035-7d7df28b69da",
+        "product images never load on category pages",
+        "open the shop, tap any category",
+        "Safari 17 on iPhone",
+        "OPEN"
+    ]
+]
