@@ -1,0 +1,1 @@
+{"automated": {"datasetMetricConfigs": [{"taskType": "General", "dataset": {"name": "support-chatbot-eval-dataset-run2", "datasetLocation": {"s3Uri": "s3://udacity-agentic-engineer-c1-eval-046336530659/output_eval_dataset_run2.jsonl"}}, "metricNames": ["Builtin.Correctness"]}], "evaluatorModelConfig": {"bedrockEvaluatorModels": [{"modelIdentifier": "amazon.nova-pro-v1:0"}]}}}

@@ -68,5 +68,19 @@
         "open the shop, tap any category",
         "Safari 17 on iPhone",
         "OPEN"
+    ],
+    [
+        "07545f48-46f5-489e-b571-583d2de83afd",
+        "The app keeps logging me out.",
+        "I'm not sure what triggers it, it just happens randomly.",
+        "Chrome on Windows 11",
+        "OPEN"
+    ],
+    [
+        "e15d3bac-10b5-400a-92a2-70a0ab8c80ec",
+        "On Safari 17 on my iPhone, the product images never load on category pages. I open the shop, tap any category, and every image is a grey box.",
+        "Open the shop, tap any category.",
+        "Safari 17 on iPhone",
+        "OPEN"
     ]
 ]
