@@ -1,3 +1,6 @@
+> Architecture diagram, routing conditions table, and disclosed modifications to the
+> provided scripts are in [`SUBMISSION.md`](SUBMISSION.md).
+
 # Evaluation observations
 
 ## What was evaluated
