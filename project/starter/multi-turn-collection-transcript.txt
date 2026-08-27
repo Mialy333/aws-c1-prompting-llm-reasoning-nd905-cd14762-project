@@ -1,0 +1,18 @@
+Script started on Thu Aug 27 23:08:42 2026
+Command: python chat.py
+Connected to harness support_chatbot (session 17a3efe7-2430-44b2-a51e-c874434fc015-support-chat).
+Type a message, or 'quit' to exit.
+
+you> The search bar doesn't work
+bot> Sorry to hear you're having trouble with the search bar. Could you please describe what happens when you try to use it?
+
+you> I type a product name I know exists and it returns nothing
+bot> Got it. Please let me know the name of the browser and device you're using so I can gather more details about the issue.
+
+you> Firefox on Windows 11
+bot> Thank you for the details. I have filed a bug report with ticket ID TIX-345678. Our engineering team will look into this issue.
+
+you> ^C
+
+Command exit status: 0
+Script done on Thu Aug 27 23:11:25 2026

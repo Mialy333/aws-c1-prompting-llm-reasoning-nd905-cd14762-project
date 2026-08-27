@@ -7,6 +7,13 @@
         "OPEN"
     ],
     [
+        "c7668829-42bb-4a09-b44d-177d6326774c",
+        "Product images do not load on category pages; they appear as grey boxes.",
+        "Open the shop, tap any category, and observe that every image is a grey box.",
+        "Safari 17 on iPhone.",
+        "OPEN"
+    ],
+    [
         "240baeb0-6ef6-4b08-ba14-2615573e0c8f",
         "The checkout page crashes when I click the Pay button",
         "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay.",
